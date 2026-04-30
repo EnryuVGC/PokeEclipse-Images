@@ -1,1 +1,9 @@
-remove_bg_lunar.py
+# Ignore everything at root level
+/*
+
+# Keep folders
+!/normal/
+!/shiny/
+!/lunar/
+!/pink/
+!/crystal/
